@@ -1,0 +1,156 @@
+date,amount,category,description
+02-01-2026,250.0,Expense,Bought groceries
+02-01-2026,590.0,Expense,Restaurant and dining
+03-01-2026,350.0,Expense,Grocery shopping
+03-01-2026,1120.0,Expense,Subscriptions and services
+04-01-2026,1500.0,Expense,Electricity bill payment
+05-01-2026,5000.0,Income,Freelance project payment
+07-01-2026,120.0,Expense,Had lunch at restaurant
+08-01-2026,15000.0,Income,Freelance development project
+09-01-2026,3000.0,Expense,Online shopping
+09-01-2026,170.0,Expense,Groceries
+09-01-2026,760.0,Expense,Shopping
+11-01-2026,20000.0,Income,Monthly salary credited
+13-01-2026,350.0,Expense,Fuel expenses
+14-01-2026,250.0,Expense,Restaurant lunch
+15-01-2026,800.0,Expense,Internet and mobile recharge
+15-01-2026,460.0,Expense,Transport and cab fares
+17-01-2026,270.0,Expense,Shopping
+17-01-2026,2500.0,Income,Received scholarship
+18-01-2026,360.0,Expense,Personal care
+19-01-2026,450.0,Expense,Bought books and stationery
+19-01-2026,500.0,Expense,Petrol expenses
+19-01-2026,8700.0,Income,Project milestone payment
+21-01-2026,600.0,Expense,Movie tickets
+21-01-2026,160.0,Expense,Transport and cab fares
+21-01-2026,230.0,Expense,Tea coffee and snacks
+23-01-2026,840.0,Expense,Books and stationery
+23-01-2026,1500.0,Income,Freelance website development
+24-01-2026,2500.0,Income,Part time work payment
+25-01-2026,200.0,Expense,Transportation expenses
+25-01-2026,690.0,Expense,Shopping
+25-01-2026,13500.0,Income,Project milestone payment
+27-01-2026,4000.0,Expense,Clothing purchase
+27-01-2026,200.0,Expense,Tea coffee and snacks
+28-01-2026,1200.0,Expense,Online shopping
+28-01-2026,580.0,Expense,Subscriptions and services
+29-01-2026,550.0,Expense,Restaurant and dining
+29-01-2026,750.0,Expense,Household essentials
+29-01-2026,1000.0,Income,Cashback and rewards
+30-01-2026,880.0,Expense,Subscriptions and services
+31-01-2026,240.0,Expense,Transport and cab fares
+02-02-2026,750.0,Expense,Restaurant dinner
+02-02-2026,800.0,Expense,Subscriptions and services
+02-02-2026,18000.0,Income,Monthly salary
+03-02-2026,14000.0,Income,Project milestone payment
+04-02-2026,12000.0,Income,Part-time work payment
+06-02-2026,300.0,Expense,Medical expenses
+06-02-2026,450.0,Expense,Movie and entertainment
+06-02-2026,370.0,Expense,Household essentials
+08-02-2026,2200.0,Expense,Household shopping
+09-02-2026,310.0,Expense,Transport and cab fares
+10-02-2026,500.0,Expense,Grocery shopping
+10-02-2026,740.0,Expense,Subscriptions and services
+10-02-2026,150.0,Expense,Entertainment
+11-02-2026,300.0,Expense,Mobile recharge
+11-02-2026,630.0,Expense,Entertainment
+12-02-2026,7500.0,Income,Project completion bonus
+14-02-2026,1800.0,Expense,Travel booking
+15-02-2026,7500.0,Income,Website development payment
+16-02-2026,250.0,Expense,Coffee and snacks
+18-02-2026,3500.0,Income,Freelance consulting payment
+20-02-2026,900.0,Expense,Monthly subscription payments
+20-02-2026,850.0,Expense,Restaurant dinner
+20-02-2026,380.0,Expense,Restaurant and dining
+24-02-2026,830.0,Expense,Subscriptions and services
+24-02-2026,450.0,Expense,Personal care
+25-02-2026,2000.0,Expense,Clothing purchase
+25-02-2026,420.0,Expense,Transport and cab fares
+26-02-2026,470.0,Expense,Restaurant and dining
+27-02-2026,210.0,Expense,Restaurant and dining
+28-02-2026,1700.0,Income,Freelance task payment
+02-03-2026,7200.0,Income,Part-time work payment
+03-03-2026,5000.0,Income,Freelance project
+04-03-2026,3500.0,Income,Small project payment
+05-03-2026,1680.0,Expense,Medical and pharmacy
+07-03-2026,150.0,Expense,Coffee and snacks
+10-03-2026,140.0,Expense,Tea coffee and snacks
+11-03-2026,1080.0,Expense,Subscriptions and services
+12-03-2026,2200.0,Expense,Electricity bill
+16-03-2026,12000.0,Income,Scholarship received
+17-03-2026,990.0,Expense,Subscriptions and services
+21-03-2026,650.0,Expense,Books and stationery
+26-03-2026,400.0,Expense,Transportation expenses
+26-03-2026,4700.0,Income,Freelance task payment
+01-04-2026,2300.0,Income,Small project payment
+02-04-2026,25000.0,Income,Monthly salary credited
+03-04-2026,540.0,Expense,Books and stationery
+03-04-2026,500.0,Expense,Household essentials
+05-04-2026,510.0,Expense,Shopping
+06-04-2026,900.0,Expense,Internet and subscriptions
+07-04-2026,250.0,Expense,Tea coffee and snacks
+08-04-2026,780.0,Expense,Household essentials
+08-04-2026,890.0,Expense,Books and stationery
+11-04-2026,3500.0,Expense,Shopping expenses
+12-04-2026,780.0,Expense,Subscriptions and services
+15-04-2026,1800.0,Income,Cashback and rewards
+15-04-2026,2600.0,Income,Tutoring income
+19-04-2026,600.0,Expense,Shopping
+20-04-2026,275.0,Expense,Food delivery
+23-04-2026,770.0,Expense,Personal care
+25-04-2026,650.0,Expense,Books and stationery
+25-04-2026,6000.0,Income,Freelance consulting
+30-04-2026,8600.0,Income,Project milestone payment
+01-05-2026,1200.0,Expense,Medical expenses
+05-05-2026,300.0,Expense,Groceries
+05-05-2026,5400.0,Income,Tutoring income
+06-05-2026,190.0,Expense,Groceries
+07-05-2026,90.0,Expense,Tea coffee and snacks
+09-05-2026,470.0,Expense,Restaurant and dining
+10-05-2026,15000.0,Income,Project completion payment
+15-05-2026,750.0,Expense,Travel expenses
+16-05-2026,900.0,Expense,Household essentials
+16-05-2026,320.0,Expense,Groceries
+16-05-2026,840.0,Expense,Books and stationery
+17-05-2026,870.0,Expense,Medical and pharmacy
+18-05-2026,740.0,Expense,Household essentials
+20-05-2026,4500.0,Expense,Electronics purchase
+20-05-2026,240.0,Expense,Mobile recharge and data
+21-05-2026,310.0,Expense,Restaurant and dining
+23-05-2026,300.0,Expense,Transport and cab fares
+25-05-2026,20000.0,Income,Monthly salary
+26-05-2026,1050.0,Expense,Medical and pharmacy
+30-05-2026,330.0,Expense,Mobile recharge and data
+31-05-2026,490.0,Expense,Personal care
+31-05-2026,100.0,Expense,Transport and cab fares
+01-06-2026,550.0,Expense,Restaurant and dining
+02-06-2026,200.0,Expense,Tea coffee and snacks
+04-06-2026,240.0,Expense,Groceries
+04-06-2026,250.0,Expense,Household essentials
+05-06-2026,410.0,Expense,Subscriptions and services
+06-06-2026,2500.0,Expense,Household supplies
+11-06-2026,8000.0,Income,Freelance payment
+12-06-2026,450.0,Expense,Shopping
+13-06-2026,80.0,Expense,Tea coffee and snacks
+13-06-2026,970.0,Expense,Personal care
+16-06-2026,350.0,Expense,Bus and cab fares
+19-06-2026,280.0,Expense,Transport and cab fares
+21-06-2026,1800.0,Expense,Online course subscription
+21-06-2026,290.0,Expense,Household essentials
+21-06-2026,670.0,Expense,Subscriptions and services
+22-06-2026,9200.0,Income,Project milestone payment
+23-06-2026,1640.0,Expense,Medical and pharmacy
+26-06-2026,10000.0,Income,Internship stipend
+30-06-2026,90.0,Expense,Tea coffee and snacks
+02-07-2026,450.0,Expense,Groceries and essentials
+02-07-2026,710.0,Expense,Household essentials
+03-07-2026,1090.0,Expense,Subscriptions and services
+04-07-2026,920.0,Expense,Medical and pharmacy
+06-07-2026,300.0,Expense,Entertainment
+07-07-2026,3000.0,Expense,Clothing and accessories
+09-07-2026,510.0,Expense,Household essentials
+12-07-2026,630.0,Expense,Household essentials
+12-07-2026,22000.0,Income,Salary credited
+15-07-2026,490.0,Expense,Restaurant and dining
+16-07-2026,260.0,Expense,Groceries
+17-07-2026,650.0,Expense,Weekend outing
